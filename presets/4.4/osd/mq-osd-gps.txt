@@ -1,0 +1,42 @@
+#$ TITLE: MovieQuads OSD
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: defaults, reset, OSD, HD, mq, moviequads
+#$ AUTHOR: MovieQuads
+#$ DESCRIPTION: MovieQuads HD OSD Setup with GPS, Power, Link, Battery
+
+set osd_units = METRIC
+set osd_vbat_pos = 2562
+set osd_link_quality_pos = 2146
+set osd_link_tx_power_pos = 2178
+set osd_tim_2_pos = 2594
+set osd_flymode_pos = 2104
+set osd_vtx_channel_pos = 18595
+set osd_ah_pos = 2234
+set osd_mah_drawn_pos = 2498
+set osd_craft_name_pos = 2647
+set osd_gps_speed_pos = 3342
+set osd_gps_sats_pos = 3214
+set osd_home_dir_pos = 2138
+set osd_home_dist_pos = 3278
+set osd_flight_dist_pos = 3310
+set osd_altitude_pos = 3246
+set osd_power_pos = 3598
+set osd_warnings_pos = 14836
+set osd_avg_cell_voltage_pos = 2530
+set osd_battery_usage_pos = 577
+set osd_disarmed_pos = 2262
+set osd_esc_tmp_pos = 3534
+set osd_flip_arrow_pos = 2522
+set osd_core_temp_pos = 3566
+set osd_sys_goggle_voltage_pos = 226
+set osd_sys_bitrate_pos = 193
+set osd_sys_delay_pos = 225
+set osd_sys_lq_pos = 194
+set osd_sys_goggle_dvr_pos = 290
+set osd_sys_warnings_pos = 2580
+set osd_sys_fan_speed_pos = 1550
+set osd_displayport_device = MSP
+set osd_menu_background = TRANSPARENT
+set vcd_video_system = HD
