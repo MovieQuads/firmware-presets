@@ -1,9 +1,9 @@
-#$ TITLE: Default rates
+#$ TITLE: MovieQuads rates
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RATES
 #$ STATUS: OFFICIAL
-#$ KEYWORDS: defaults, rates, actual
+#$ KEYWORDS: defaults, rates, actual, mq, moviequads
 #$ AUTHOR: MovieQuads
 #$ DESCRIPTION: MovieQuads Rate Profiles
 #$ PRIORITY: 0

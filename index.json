@@ -355,6 +355,8 @@
       "modes",
       "Motor",
       "mouse fpv",
+      "moviequads",
+      "mq",
       "msp",
       "MSP VTX",
       "msp-osd",
@@ -3714,8 +3716,8 @@
     },
     {
       "fullPath": "presets/4.4/rates/mq-rates.txt",
-      "hash": "5452a4615659a4772010039b35bb071602a366c723ab90186f39f184ff55e16a",
-      "title": "Default rates",
+      "hash": "d5111038a0b8829d5399ad5736e0001c931c38d224c8e346dc4e89e48927cff8",
+      "title": "MovieQuads rates",
       "firmware_version": [
         "4.3",
         "4.4"
@@ -3725,7 +3727,9 @@
       "keywords": [
         "defaults",
         "rates",
-        "actual"
+        "actual",
+        "mq",
+        "moviequads"
       ],
       "author": "MovieQuads",
       "priority": 0
